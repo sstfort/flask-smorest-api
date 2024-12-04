@@ -9,6 +9,8 @@ from db import db
 from blocklist import BLOCKLIST
 import models
 
+
+
 from ressources.itme import blp as ItemBluePrint
 from ressources.store import blp as StoreBluePrint
 from ressources.tag import blp as TagBluePrint
