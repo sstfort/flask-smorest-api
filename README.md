@@ -1,3 +1,3 @@
 # REST APIs
 
-Nothing yest
+Nothing yet
